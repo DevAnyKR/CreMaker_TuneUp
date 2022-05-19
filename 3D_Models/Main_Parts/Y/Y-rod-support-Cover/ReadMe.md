@@ -1,14 +1,16 @@
 ## 파일 설명
 
-- [Y-rod-support-Cover_A.stl](https://github.com/simulz/CreMaker_TuneUp/blob/main/3D_Models/Main_Parts/Y/Y-rod-support-Cover/STL/Y-rod-support-Cover_A.stl)
+아크릴 휨 방지 고정 블록에 사용하는 손잡이 입니다.
 
-    *단순 돔 모양의 기본형 (순정 블록용)*
 
-- [Y-rod-support-Cover_B.stl](https://github.com/simulz/CreMaker_TuneUp/blob/main/3D_Models/Main_Parts/Y/Y-rod-support-Cover/STL/Y-rod-support-Cover_B.stl) 
+***
+## 출력 조건
 
-  *LM8LUU용 간섭 제거 (롱타입 부싱 블록용)*
+서포트 필요 없는 방향으로 회전
+
+구멍은 축소하면 뻑뻑해짐. 0.05~0.1 정도 확장 추천
 
 ***
 
 ## Update
-- 1.2, 2.2: 바닥 안쪽 모따기 치수 변경 0.5→1.0
+-

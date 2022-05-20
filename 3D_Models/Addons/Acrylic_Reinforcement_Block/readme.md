@@ -29,6 +29,7 @@
 ## 출력 조건
 
 넓은 면이 바닥으로 오도록 회전
+![](https://github.com/simulz/CreMaker_TuneUp/blob/39bfd3a4c9ec6d806d423ef5497b1ebbd0d7df98/3D_Models/Addons/Acrylic_Reinforcement_Block/Images/20220519_151342.jpg)
 
 구멍은 축소하면 뻑뻑해짐. 0.05~0.1 정도 확장 추천
 

@@ -2,7 +2,10 @@
 
 ## 파일 설명
 
-Z축 상하 이동시, 진동을 흡수합니다.
+Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
+
+![](https://github.com/simulz/CreMaker_TuneUp/blob/e7fb87a356ca22a460c593946524bed0903164ea/3D_Models/Main_Parts/X/Self-Aligning-Module/Images/selfaligningmodule.gif)
+
 
 ## 출력 조건
 

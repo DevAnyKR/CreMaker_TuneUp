@@ -1,8 +1,6 @@
 # Self-Aligning-Module
 
-## 파일 설명
-
-Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
+- Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
 
 ![](https://github.com/simulz/CreMaker_TuneUp/blob/e7fb87a356ca22a460c593946524bed0903164ea/3D_Models/Main_Parts/X/Self-Aligning-Module/Images/selfaligningmodule.gif)
 모듈 아래쪽 리드 스크류 블록만 떠는 것이 보이쥬?
@@ -22,6 +20,14 @@ Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
 ![N|Solid](https://github.com/simulz/CreMaker_TuneUp/blob/7d35bd72db969bc763978a8ade1af5b4461e2dfa/3D_Models/Main_Parts/X/Self-Aligning-Module/Images/2022-03-03%20192322.png)
 
 - 자석은 *록타이트 401* 접착제로 고정합니다.
+
+## X-block 변경 사항
+
++ 상하 반전
++ self-aligning module 장착 홀
++ X축 베어링봉 고정 클립 반전
++ X축 베어링봉 길이 확장 가능
++ 모듈 간섭 부분 솔리드 잘라내기
 
 ***
 

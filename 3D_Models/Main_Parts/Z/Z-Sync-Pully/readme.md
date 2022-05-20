@@ -1,5 +1,7 @@
 # Z-Sync-Pully
 
+![](https://github.com/simulz/CreMaker_TuneUp/blob/27c862370fcb232e11381ad24dc340107270ac69/3D_Models/Main_Parts/Z/Z-Sync-Pully/Image/20220212_101508.jpg)
+
 - Z축 리드 스크류를 동기화 해주는 모듈입니다.
 
 ## 효과
@@ -23,10 +25,7 @@
 - M5\*25 볼트 3개
 - M4\*20 볼트 1개
 
-## 출력 방법
-
-- 
-
 ***
 ## Update
-1.2, 2.2: 바닥 안쪽 모따기 치수 변경 0.5→1.0
+
+-

@@ -10,7 +10,7 @@ Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
 
 ## 출력 조건
 
-- 1개씩 2세트 출력
+- *Magnet_Bottom Plate.stl*, *Magnet_Top Plate.stl* 모델은 1개씩 2세트 출력
 - 서포트 필요 없는 방향으로 회전
 - 개조된 *X-block-Cut* 모델을 사용해야 함.
 

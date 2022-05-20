@@ -1,7 +1,10 @@
+# Bottom Plate Handle
+![](https://github.com/simulz/CreMaker_TuneUp/blob/9623a3c78e2645be2d8ed60e31a75fb5e3a9aec2/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220512_3D1.png)
+
 ## 파일 설명
 
 아크릴 휨 방지 고정 블록에 사용하는 손잡이 입니다.
-
+![](https://github.com/simulz/CreMaker_TuneUp/blob/0d06ef17fe9c456a15d2c74a471cd4e422c58f24/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220519_155929.jpg)
 
 ***
 ## 출력 조건

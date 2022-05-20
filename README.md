@@ -8,6 +8,10 @@
 
 모델 파일은 각 **STL** 폴더에 있습니다.
 
+## 튜닝 미리보기
+
+![](https://github.com/simulz/CreMaker_TuneUp/blob/53cab4bc4c65bd366b8379d44bd781e0f6cf1247/3D_Models/CMV2_Tuned.png)
+
 ***
 
 ## Wiki

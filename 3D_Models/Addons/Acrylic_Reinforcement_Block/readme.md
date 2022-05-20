@@ -13,15 +13,13 @@
 - ~100mm_B1.stl 모델은 2개씩 1세트 출력
 - 서포트 필요 없는 방향으로 회전
 - 구멍은 축소하면 뻑뻑해짐. 0.05~0.1 정도 확장 추천
+- 넓은 면이 바닥으로 오도록 회전
+![](https://github.com/simulz/CreMaker_TuneUp/blob/39bfd3a4c9ec6d806d423ef5497b1ebbd0d7df98/3D_Models/Addons/Acrylic_Reinforcement_Block/Images/20220519_151342.jpg)
 
 ## 준비물
 
 - M3\*20 볼트 및 너트 18개
 
-## 출력 조건
-
-넓은 면이 바닥으로 오도록 회전
-![](https://github.com/simulz/CreMaker_TuneUp/blob/39bfd3a4c9ec6d806d423ef5497b1ebbd0d7df98/3D_Models/Addons/Acrylic_Reinforcement_Block/Images/20220519_151342.jpg)
 
 # Bed Handle
 

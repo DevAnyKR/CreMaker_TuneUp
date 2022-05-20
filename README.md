@@ -18,7 +18,7 @@
 
 https://github.com/simulz/CreMaker_TuneUp/wiki
 
-(문서 작성 중...)
+(정리된 문서입니다.)
 
 ## 토론
 https://github.com/simulz/CreMaker_TuneUp/discussions

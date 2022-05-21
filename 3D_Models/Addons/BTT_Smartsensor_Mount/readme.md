@@ -1,36 +1,31 @@
-# Acrylic_Reinforcement_Block
+# BTT_Smartsensor_Mount
 
-![](https://github.com/simulz/CreMaker_TuneUp/blob/9623a3c78e2645be2d8ed60e31a75fb5e3a9aec2/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220512_3D1.png)
+![](https://github.com/simulz/CreMaker_TuneUp/blob/7eb574a146c8558f8dda3b62f7334586621d129a/3D_Models/Addons/BTT_Smartsensor_Mount/Images/20220512_3D1.png)
 
 ## 파일 설명
 
-아크릴 휨 방지 강화 블록입니다.
+필라멘트 감지 센서용 마운트입니다.
+
+### 효과
+
+펄스 방식 센서는 필라멘트를 다 썼거나, 내부에서 끊어졌거나, 노즐이 막혔거나, 기어가 헛돌거나, 필라멘트가 갈렸을 때 감지하여 출력을 일시정지합니다.
+
+(On/Off 방식은 필라멘트가 없을 때만 감지하지만, BTT 센서는 흐름을 감지하여 위 상황을 모두 감지합니다.)
 
 ## 출력 조건
-
-- ~180mm_B1.stl 모델은 2개씩 1세트 출력. (측면 강화시 2세트 추가 출력)
-  - 단, 손잡이 사용시 블록 1개를 ~180mm_B2.stl 모델로 대체합니다.
-- ~100mm_B1.stl 모델은 2개씩 1세트 출력
-- 구멍은 축소하면 뻑뻑해짐. 0.05~0.1 정도 확장 추천
-- 넓은 면이 바닥으로 오도록 회전
-![](https://github.com/simulz/CreMaker_TuneUp/blob/39bfd3a4c9ec6d806d423ef5497b1ebbd0d7df98/3D_Models/Addons/Acrylic_Reinforcement_Block/Images/20220519_151342.jpg)
+- 서포트가 필요 없는 면이 바닥으로 오도록 회전
 
 ## 준비물
 
-- M3\*20 볼트 및 너트 18개
+- M3\*40 볼트 및 너트 1개
+- BTT Filament Sensor
+  - 구매링크: [AliExpress](https://ko.aliexpress.com/af/BTT-SFS.html?d=y&origin=n&SearchText=BTT+SFS&catId=0&spm=a2g0o.detail.1000002.0&initiative_id=SB_20220422024731)
 
-***
+![](https://github.com/simulz/CreMaker_TuneUp/blob/7eb574a146c8558f8dda3b62f7334586621d129a/3D_Models/Addons/BTT_Smartsensor_Mount/Images/BTT%20Sensor.png)
 
-# Bed Handle
+## 미리보기
 
-## 파일 설명
-
-아크릴 휨 방지 고정 블록에 사용하는 손잡이 입니다.
-![](https://github.com/simulz/CreMaker_TuneUp/blob/0d06ef17fe9c456a15d2c74a471cd4e422c58f24/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220519_155929.jpg)
-
-## 준비물
-
-- M3\*12~15 볼트 및 너트 2개
+![](https://github.com/simulz/CreMaker_TuneUp/blob/7eb574a146c8558f8dda3b62f7334586621d129a/3D_Models/Addons/BTT_Smartsensor_Mount/Images/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202022-04-28%20101606.png)
 
 ## Update
 -

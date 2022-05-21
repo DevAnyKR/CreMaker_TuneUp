@@ -18,7 +18,7 @@
 ## 준비물
 
 - M3\*40 볼트 및 너트 1개
-- BTT Filament Sensor
+- BTT Smart Filament Sensor
   - 구매링크: [AliExpress](https://ko.aliexpress.com/af/BTT-SFS.html?d=y&origin=n&SearchText=BTT+SFS&catId=0&spm=a2g0o.detail.1000002.0&initiative_id=SB_20220422024731)
 
 ![](https://github.com/simulz/CreMaker_TuneUp/blob/7eb574a146c8558f8dda3b62f7334586621d129a/3D_Models/Addons/BTT_Smartsensor_Mount/Images/BTT%20Sensor.png)

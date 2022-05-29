@@ -18,3 +18,7 @@
 
 + eSUN PLA+ 추천. 또는 PETG, ABS 등 강도가 높은 재질
 + 내부채움 100% 권장.(20% 이상일 경우, 정면이 바닥으로 오도록 회전 후 출력)
+
+## 조립 상태
+
+![](https://github.com/simulz/CreMaker_TuneUp/blob/main/3D_Models/Main_Parts/Y/Y-bearing-block/image/20220128_122415.jpg)

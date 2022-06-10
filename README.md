@@ -29,6 +29,3 @@ https://github.com/simulz/CreMaker_TuneUp/discussions
 https://github.com/simulz/CreMaker_TuneUp/issues
 
 (문제점, 버그 리포트를 해주세요.)
-
-## 크리메이커 카페
-https://cafe.naver.com/cremaker

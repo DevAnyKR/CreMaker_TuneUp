@@ -1,7 +1,7 @@
 # BearingUnit-Top
 
-- 리드 스크류를 베어링 유닛으로 고정할 수 있는 블록입니다.
-- [Self-Aligning-Module](https://github.com/simulz/CreMaker_TuneUp/tree/main/3D_Models/Main_Parts/X/Self-Aligning-Module)를 적용했다면 BearingUnit-Top 튜닝은 필요 없습니다.
+- 리드 스크류를 베어링 유닛으로 동심을 잡아주는 블록입니다.
+- [Self-Aligning-Module](https://github.com/simulz/CreMaker_TuneUp/tree/main/3D_Models/Main_Parts/X/Self-Aligning-Module)을 적용했다면 베어링 유닛을 장착할 필요가 없습니다.
 
 ## 출력하기
 

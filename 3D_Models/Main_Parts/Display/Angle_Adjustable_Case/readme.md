@@ -4,6 +4,11 @@
 
 ***
 
+## 미리보기
+
+![image](https://user-images.githubusercontent.com/14369006/236596891-e54b7210-de4e-4d71-892b-2a6838c9c760.png)
+
+
 Todo
 
 홈을 파서 각도 고정되게 할 것

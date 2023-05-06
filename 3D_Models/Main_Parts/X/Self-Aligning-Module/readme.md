@@ -2,7 +2,8 @@
 
 - Z축 상하 이동시, 리드스크류 진동을 흡수합니다.
 
-![](https://github.com/simulz/CreMaker_TuneUp/blob/e7fb87a356ca22a460c593946524bed0903164ea/3D_Models/Main_Parts/X/Self-Aligning-Module/Images/selfaligningmodule.gif)
+![selfaligningmodule](https://user-images.githubusercontent.com/14369006/236598058-5517a45a-2aed-4d2e-9bf7-9eb94f4d32d1.gif)
+
 모듈 아래쪽 리드 스크류 블록만 떠는 것이 보이쥬?
       
 
@@ -19,9 +20,14 @@
 
 ## 조립
 
-![N|Solid](https://github.com/simulz/CreMaker_TuneUp/blob/7d35bd72db969bc763978a8ade1af5b4461e2dfa/3D_Models/Main_Parts/X/Self-Aligning-Module/Images/2022-03-03%20192322.png)
+![image](https://user-images.githubusercontent.com/14369006/236597955-68b111e1-c145-4f5c-b39c-84a29f89a55f.png)
 
 - 자석은 *록타이트 401* 접착제로 고정합니다.
+
+## 사용예
+
+![image](https://user-images.githubusercontent.com/14369006/236597990-4b1d5f24-284b-4e94-8c5a-d8b335fa26ef.png)
+![image](https://user-images.githubusercontent.com/14369006/236598022-74dfea6b-8118-4fb7-8684-93f8c1d9f288.png)
 
 ## X-block 변경 사항
 

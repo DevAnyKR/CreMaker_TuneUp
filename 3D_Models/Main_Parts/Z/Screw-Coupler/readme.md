@@ -17,15 +17,23 @@
 - 스크류를 감싸는 방식으로 고정되므로 동심이 거의 맞음
 - 커플러가 휘지 않으므로 스크류를 수직으로 고정할 수 있음
 
+## 사용예
+
+![20220316_185243](https://user-images.githubusercontent.com/14369006/236599207-f451d9c8-5825-4eb3-bb66-22f60179d45d.jpg)
+
+
 ## 준비물
 
-- 지름 20mm, 길이 25mm, 내경은 각각 5mm, 8mm의 커플러 2개
+![20220316_103510](https://user-images.githubusercontent.com/14369006/236599217-388e5c94-fb02-4762-9252-76c204b72171.jpg)
+
+
+- 지름 20mm, 길이 25mm, 내경은 위아래가 각각 5mm, 8mm의 커플러 2개
 
 AliExpress:
 
-https://s.click.aliexpress.com/e/_DCaTkTr
+https://s.click.aliexpress.com/e/_De5ohud
 
-https://s.click.aliexpress.com/e/_DCaTkTr
+https://s.click.aliexpress.com/e/_DEQ3OeH
 
 ***
 ## Update

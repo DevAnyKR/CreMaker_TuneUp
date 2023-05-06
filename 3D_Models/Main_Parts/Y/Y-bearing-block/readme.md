@@ -2,7 +2,7 @@
 
 + Y 벨트 장력 조절 블록입니다.
 
-![](https://github.com/simulz/CreMaker_TuneUp/blob/main/3D_Models/Main_Parts/Y/Y-bearing-block/image/20220512_3D1.png)
+![image](https://user-images.githubusercontent.com/14369006/236602396-c19a1a93-d500-49b8-84ed-4db84d0be6ec.png)
 
 ## 효과
 
@@ -23,6 +23,9 @@
 ![img (3)](https://user-images.githubusercontent.com/14369006/236602295-d89e942e-80e9-432b-8994-5702dd1beb73.png)
 ![img (4)](https://user-images.githubusercontent.com/14369006/236602296-76afd744-6ce3-4d5a-aaf6-941952c67004.png)
 
+## 사용 예
+
+![image](https://user-images.githubusercontent.com/14369006/236602403-a146b2a1-f50a-4f1c-bd4b-b30f9c0468b2.png)
 
 ## 파일 설명
 
@@ -39,6 +42,3 @@
 + eSUN PLA+ 추천. 또는 PETG, ABS 등 강도가 높은 재질
 + 내부채움 100% 권장.(20% 이상일 경우, 정면이 바닥으로 오도록 회전 후 출력)
 
-## 조립 상태
-
-![](https://github.com/simulz/CreMaker_TuneUp/blob/main/3D_Models/Main_Parts/Y/Y-bearing-block/image/20220128_122415.jpg)

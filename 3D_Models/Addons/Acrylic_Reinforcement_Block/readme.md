@@ -1,6 +1,6 @@
 # Acrylic_Reinforcement_Block
 
-![](https://github.com/simulz/CreMaker_TuneUp/blob/9623a3c78e2645be2d8ed60e31a75fb5e3a9aec2/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220512_3D1.png)
+![image](https://user-images.githubusercontent.com/14369006/236603028-f60190bd-500d-4876-afd4-2ab53eb19f00.png)
 
 ## 파일 설명
 
@@ -13,7 +13,8 @@
 - ~100mm_B1.stl 모델은 2개씩 1세트 출력
 - 구멍은 축소하면 뻑뻑해짐. 0.05~0.1 정도 확장 추천
 - 넓은 면이 바닥으로 오도록 회전
-![](https://github.com/simulz/CreMaker_TuneUp/blob/39bfd3a4c9ec6d806d423ef5497b1ebbd0d7df98/3D_Models/Addons/Acrylic_Reinforcement_Block/Images/20220519_151342.jpg)
+
+![image](https://user-images.githubusercontent.com/14369006/236603041-656c9bc3-e3e1-4341-afef-8d510e8e395f.png)
 
 ## 준비물
 
@@ -26,7 +27,8 @@
 ## 파일 설명
 
 아크릴 휨 방지 고정 블록에 사용하는 손잡이 입니다.
-![](https://github.com/simulz/CreMaker_TuneUp/blob/0d06ef17fe9c456a15d2c74a471cd4e422c58f24/3D_Models/Main_Parts/Bed/BottomPlateHandle/Images/20220519_155929.jpg)
+
+![image](https://user-images.githubusercontent.com/14369006/236603056-169e361f-08e4-48d7-afd0-59bdee19959c.png)
 
 ## 준비물
 

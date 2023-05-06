@@ -27,3 +27,16 @@ https://github.com/simulz/CreMaker_TuneUp/discussions
 https://github.com/simulz/CreMaker_TuneUp/issues
 
 (문제점, 버그 리포트를 해주세요.)
+
+
+# License
+파일별로 라이선스는 조금씩 다릅니다.
+예) Cremaker의 파일, Simulz의 파일
+
+복잡할 것 없이, 자유롭게 사용하고, 개선된 내용은 피드백을 해주시면 됩니다.
+(협업 목적)
+
+복제 배포시 최초 원본 파일의 링크와 함께 배포를 권장합니다. (혼란 방지 및 피드백 목적)
+
+코드를 변경 후 배포시 원본 파일 또는 원본 파일의 링크와 함께 수정된 파일의 코드도 배포해야 합니다.
+예) STEP 파일을 변경하고 STL 파일로 변환된 파일을 배포 시, 변경된 STEP 파일도 함께 배포해야 합니다. (배포 받은 사용자도 원본을 수정할 권한이 있음)

@@ -4,7 +4,8 @@
 
 3D 모델은 '[3D_Models](https://github.com/simulz/CreMaker_TuneUp/tree/main/3D_Models)'에 분류별로 디렉토리가 구성되어 있습니다.
 
-모델 파일은 각 **STL** 폴더에 있습니다.
+자세한 내용은 Wiki를 참고해주세요.
+[Wiki 튜닝된 항목](https://github.com/simulz/CreMaker_TuneUp/wiki/%ED%8A%9C%EB%8B%9D%EB%90%9C-%ED%95%AD%EB%AA%A9)
 
 ***
 

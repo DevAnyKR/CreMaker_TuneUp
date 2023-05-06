@@ -1,7 +1,8 @@
-# Main Parts
+# 디렉터리 구분
+## Main Parts
 프린터 주요 부품입니다.
 
-# Addons
+## Addons
 추가 액세서리입니다.
 
 ***

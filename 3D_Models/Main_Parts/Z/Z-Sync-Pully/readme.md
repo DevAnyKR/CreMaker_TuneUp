@@ -1,6 +1,6 @@
 # Z-Sync-Pully
 
-![](https://github.com/simulz/CreMaker_TuneUp/blob/27c862370fcb232e11381ad24dc340107270ac69/3D_Models/Main_Parts/Z/Z-Sync-Pully/Image/20220212_101508.jpg)
+![image](https://user-images.githubusercontent.com/14369006/236599371-e0707b20-db98-42db-9468-2f72144f53b2.png)
 
 - Z축 리드 스크류를 동기화 해주는 모듈입니다.
 
@@ -15,6 +15,13 @@
 
 ### after
 - 두 개의 Z축은 항시 같은 각도로 회전하므로, X축 수평이 틀어지지 않음.
+
+## 사용예
+
+![image](https://user-images.githubusercontent.com/14369006/236599332-88b8abdc-1283-45f2-b6d2-ff16267b8899.png)
+![image](https://user-images.githubusercontent.com/14369006/236599355-a92315af-01db-4fd0-b55f-10bf01ff267e.png)
+![image](https://user-images.githubusercontent.com/14369006/236599384-415d9933-5c94-444e-8dcd-ef9a80a37cb5.png)
+
 
 ## 준비물
 

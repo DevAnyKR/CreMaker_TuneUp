@@ -26,9 +26,13 @@
 
 팬: NOCTUA NF-A9x14 PWM 
 
+DCDC컨버터: SZH-PWSD-014
+
+## 추가 준비물
+
 온도 스위치: PT-01 50~70℃
 
-DCDC컨버터: SZH-PWSD-014
+써멀 패드: 15W/mk 권장
 
 ## 출력 조건
 

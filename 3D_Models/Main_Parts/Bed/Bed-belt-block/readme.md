@@ -1,6 +1,6 @@
 # Bed-belt-block
-
 + Y 벨트를 고정하는 블록입니다.
++ 2차 저작물입니다, 원본: https://cafe.naver.com/cremaker/16533
 
 ## 효과
 
